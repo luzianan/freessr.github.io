@@ -1,2 +1,1 @@
-# freessr.github.io
-免费ssr
+# 免费ssr
